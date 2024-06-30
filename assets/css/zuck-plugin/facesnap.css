@@ -1,0 +1,6 @@
+.stories.facesnap .story > a {text-decoration:none;color:#565656dd}
+.stories.facesnap .story > a > .img {border-radius:50%;padding:3px; background-image: linear-gradient(#f9ce34, #ee2a7b, #6228d7);}
+.stories.facesnap .story > a > .img > * {border-radius: 50%; border:1px solid #fff;  background-image: linear-gradient(#f9ce34, #ee2a7b, #6228d7);}
+
+.stories.facesnap .story.seen{opacity:.5}
+.stories.facesnap .story.seen > a > .img { background-image: linear-gradient(#f9ce34, #ee2a7b, #6228d7);}
